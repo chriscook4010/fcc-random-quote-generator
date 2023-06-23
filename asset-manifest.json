@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-random-quote-generator/static/css/main.ca57846c.css",
+    "main.js": "/fcc-random-quote-generator/static/js/main.89be5bd3.js",
+    "static/js/787.4199adfa.chunk.js": "/fcc-random-quote-generator/static/js/787.4199adfa.chunk.js",
+    "index.html": "/fcc-random-quote-generator/index.html",
+    "main.ca57846c.css.map": "/fcc-random-quote-generator/static/css/main.ca57846c.css.map",
+    "main.89be5bd3.js.map": "/fcc-random-quote-generator/static/js/main.89be5bd3.js.map",
+    "787.4199adfa.chunk.js.map": "/fcc-random-quote-generator/static/js/787.4199adfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca57846c.css",
+    "static/js/main.89be5bd3.js"
+  ]
+}
